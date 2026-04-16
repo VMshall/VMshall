@@ -11,17 +11,16 @@
   </a>
 </p>
 
----
+
 
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **building awesome applications**
-- 🌱 I’m currently learning **AI**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Embedded Systems, APIs, and AI**
-- 📫 How to reach me: **[sabavat.vishal19@gmail.com]**
+- 📫 How to reach me **sabavat.vishal19@gmail.com**
 
----
+
 
 ### 💻 Tech Stack & Tools
 
@@ -37,15 +36,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VMshall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Anil's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VMshall&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Anil's Top Languages"/>
-</div>
-
+<!-- <div align="center"> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VMshall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="VMshall's GitHub Stats"/> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VMshall&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="VMshall's Top Languages"/>
+</div> -->
 <br />
----
+<br />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=50" alt="Footer graphic" />
 </p>
