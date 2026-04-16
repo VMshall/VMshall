@@ -42,23 +42,18 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anilsabavat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Anil's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilsabavat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Anil's Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VMshall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Anil's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VMshall&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Anil's Top Languages"/>
 </div>
 
 <br />
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anilsabavat&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Anil's Streak"/>
-</div>
-
 ---
 
 ### 🏆 Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anilsabavat&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Vmshall&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
   </a>
 </p>
 
