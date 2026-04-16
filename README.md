@@ -48,17 +48,6 @@
 
 <br />
 ---
-
-### 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vmshall&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=50" alt="Footer graphic" />
 </p>
