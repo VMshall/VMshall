@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **building awesome applications**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Embedded Systems, APIs, and AI**
+- 💬 Ask me about **Embedded Systems, Open Source Contributions, and AI**
 - 📫 How to reach me **sabavat.vishal19@gmail.com**
 
 
