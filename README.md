@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Electronics System Student  
+- 🎓 Electronics System Student at IIT Madras  
 - 🔭 Interested in **Semiconductor, Embedded Systems, IoT, and AI**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Embedded Systems, Open Source Contributions, and AI**
