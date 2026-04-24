@@ -19,7 +19,7 @@
 - 🔭 Interested in **Semiconductor, Embedded Systems, IoT, and AI**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Embedded Systems, Open Source Contributions, and AI**
-- 📫 How to reach me **sabavat.vishal19@gmail.com**
+- 📫 How to reach me **sabavat.vishal19@gmail.com / v8shal19@gmail.com**
 - 📫 Linkedin **Vishal Sabavat**
 
 
