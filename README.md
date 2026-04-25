@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&animation=fadeIn" alt="Header graphic"/>
 </p>
 
-<h1 align="center">Hi there, I'm Vishal 👋</h1>
+<h1 align="center">Hi there, I'm Vishal/VMshall 👋</h1>
 <h3 align="center">A passionate developer crafting modern and elegant solutions.</h3>
 
 <p align="center">
